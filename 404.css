@@ -1,0 +1,40 @@
+.fond{
+    background-image: url(planetegif.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
+  
+  .titre{
+      color: whitesmoke;
+      text-align: center;
+      
+      
+  }
+  
+  .paragraphe{
+      color: thistle;
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+  
+  }
+  
+  .phrasedefin{
+      color: whitesmoke;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+  
+  .pointrouge{
+  text-align: left;
+      
+  }
+  
+  
+  }
+  
+  .para{
+      text-align: center;
+  }
